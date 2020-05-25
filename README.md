@@ -80,7 +80,7 @@ This is an excellent introduction to Flutter so you can quickly get started and 
 
 Beginning Flutter: A Hands-On Guide to App Development is an essential resource for both experienced and novice developers interested in getting started with Flutter. It's an introduction to Flutter, step by step. This book is written by Marco L. Napoli, the CEO of Pixolini Inc. and an experienced mobile, web, and desktop app developer. He has a strong proven record in developing visually elegant and simple to use systems. – Beginning Flutter: A Hands-On Guide to App Development 1st Edition
 
-Flutter Setup & Notes
+# Flutter Setup & Notes
 1. Download SDK
 Download Flutter SDK, extract the "Flutter" folder and put somewhere on your machine https://flutter.dev/docs/get-started/install
 
