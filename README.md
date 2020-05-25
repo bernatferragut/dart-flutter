@@ -79,3 +79,31 @@ Beginning Flutter: A Hands-On Guide to App Development 1st Edition
 This is an excellent introduction to Flutter so you can quickly get started and understand the fundamental principles. If you prefer to learn through books, don't hesitate!
 
 Beginning Flutter: A Hands-On Guide to App Development is an essential resource for both experienced and novice developers interested in getting started with Flutter. It's an introduction to Flutter, step by step. This book is written by Marco L. Napoli, the CEO of Pixolini Inc. and an experienced mobile, web, and desktop app developer. He has a strong proven record in developing visually elegant and simple to use systems. – Beginning Flutter: A Hands-On Guide to App Development 1st Edition
+
+# Flutter Setup & Notes
+1. Download SDK
+Download Flutter SDK, extract the "Flutter" folder and put somewhere on your machine https://flutter.dev/docs/get-started/install
+
+2. Add path
+Add path for 'location/flutter/bin'
+
+3. Check dependencies
+flutter doctor
+4. Install Xcode (Mac)
+https://developer.apple.com/xcode/
+
+5. Configure Xcode command line tools (Mac)
+sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+sudo xcodebuild -runFirstLaunch
+6. Test iOS Simulator (Mac)
+open -a Simulator
+7. Install Android Studio
+https://developer.android.com/studio
+
+8. Install Flutter plugin
+9. Create virtual device from AVD manager
+10. Install VSCode Flutter extension
+11. Create flutter app
+flutter create my_app
+12. Run Debugger in VSCode
+You should now be setup to start editing the lib/main.dart file and build your app
