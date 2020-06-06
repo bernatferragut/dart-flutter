@@ -18,8 +18,14 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('TESTING LAYOUTS'),
         ),
-        body: Container(color: Colors.red)
+        body: Center(
+          child: Container(
+            width: 500,
+            height: 500,
+            color: Colors.red[200]
+          ),
         ),
+      ),
     );
   }
 }
